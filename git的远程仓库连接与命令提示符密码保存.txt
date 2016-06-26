@@ -17,3 +17,9 @@
  （3）粘贴到github网站上
 （4）ssh -T git@github.com（查看状态）
 
+
+4.git checkout -b name =
+  git branch name //创建分支
+  git checkout name //切换分支
+
+ git merge myname//合并分支
