@@ -22,4 +22,5 @@
   git branch name //创建分支
   git checkout name //切换分支
 
- git merge myname//合并分支
+ git merge myname2//合并分支
+ 
