@@ -23,4 +23,7 @@
   git checkout name //切换分支
 
  git merge myname2//合并分支
+
+ git log --graph是查看合并的分支
+
  
